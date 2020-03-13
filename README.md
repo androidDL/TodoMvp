@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/faken-lcp-green)](https://www.google.com)
+
+
 # TodoMvp
 学习官方的mvp例子，并添加自己的理解
 
